@@ -1,3 +1,5 @@
 # auth-api
-authentication with token api
-it contains an api which is authenticated with jwt token.
+Authentication with token api
+
+
+It contains an api which is authenticated with jwt token.
